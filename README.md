@@ -7,3 +7,4 @@ new line
 2222
 
 no conflict
+conflicts
